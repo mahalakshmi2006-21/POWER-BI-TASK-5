@@ -68,11 +68,7 @@ The report uses the **Fluent 2** theme. Report settings also allow summarized da
 - Data modeling
 - Report page configuration and theme settings
 
-## 6.Screenshot
-
-<img width="1917" height="978" alt="Screenshot 2026-10-13 202433" src="https://github.com/user-attachments/assets/b900e89b-19ff-4e9a-aae0-7d784c902b20" />
-
-## 7. Conclusion
+## 6. Conclusion
 
 This task demonstrates how healthcare data can be prepared and organized in Power BI. By separating patient, doctor, hospital, date, and admission information into dedicated tables, the data model becomes easier to maintain and use for analysis. The report can be extended with appropriate charts, cards, slicers, and other visuals as required.
 
